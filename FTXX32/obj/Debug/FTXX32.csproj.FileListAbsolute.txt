@@ -1,0 +1,14 @@
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\bin\Debug\FTXX32.exe.config
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\bin\Debug\FTXX32.exe
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\bin\Debug\FTXX32.pdb
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\bin\Debug\FTD2XX_NET.dll
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\bin\Debug\FTD2XX_NET.xml
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.csprojAssemblyReference.cache
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.fMain.resources
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.Properties.Resources.resources
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.csproj.GenerateResource.cache
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.csproj.CoreCompileInputs.cache
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.csproj.CopyComplete
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.exe
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.pdb
+B:\Работа\FT232\FT232_1\FTXX32\FTXX32\obj\Debug\FTXX32.fFT232.resources
